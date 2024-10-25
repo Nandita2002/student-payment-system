@@ -1,0 +1,104 @@
+.admin-dashboard-container {
+  display: flex;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.sidebar {
+  width: 300px;
+  background-color:black;
+  color: #fff;
+  padding: 20px;
+  box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+  align-items: last baseline;
+}
+
+.sidebar h3 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.sidebar button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color:blueviolet;
+  border: none;
+  color:black;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.sidebar button:hover {
+  background-color:whitesmoke;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.student-form,
+.student-list {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+.student-form h2,
+.student-list h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.student-form input {
+  display: flexbox;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.student-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.student-form button:hover {
+  background-color:blueviolet;
+}
+
+.student-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.student-item p {
+  margin: 5px 0;
+}
+
+.student-item button {
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color:blue;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.student-item button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,85 @@
+/* Main container styling */
+  body {
+    background-image: url(../../assets/28468.jpg); /* Adjusting the path to go up two levels */
+    height: 100%;
+    width: 100%;
+  }
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  background-size:cover;
+}
+
+.login-box {
+  background: black;
+  padding: 2rem;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color:blueviolet;
+  margin-right: 3px;
+  padding: 3px;
+}
+
+/* Form elements */
+input[type="email"],
+input[type="password"],
+button {
+  width: 100%;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
+  font-size: 1rem;
+}
+
+input[type="email"],
+input[type="password"] {
+  background-color: #f9f9f9;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: black;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:black;
+}
+
+/* Error message styling */
+.error {
+  color: #ff4d4d;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+/* Role selector styling */
+.role-selector {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.role-selector label {
+  margin: 0 1rem;
+  font-size: 1rem;
+}
+
+.role-selector input[type="radio"] {
+ align-items: center;
+ margin: 3px;
+}
+
+
