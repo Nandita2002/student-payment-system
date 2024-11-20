@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bd7adda.css",
-    "main.js": "/static/js/main.934de6ed.js",
-    "static/js/453.35427519.chunk.js": "/static/js/453.35427519.chunk.js",
-    "static/media/28468.jpg": "/static/media/28468.db0f7c3ccae7c89ffb52.jpg",
-    "index.html": "/index.html",
-    "main.1bd7adda.css.map": "/static/css/main.1bd7adda.css.map",
-    "main.934de6ed.js.map": "/static/js/main.934de6ed.js.map",
-    "453.35427519.chunk.js.map": "/static/js/453.35427519.chunk.js.map"
+    "main.css": "/Nandita2002/student-payment-system.git/static/css/main.cb4d4fe1.css",
+    "main.js": "/Nandita2002/student-payment-system.git/static/js/main.71463175.js",
+    "static/js/453.35427519.chunk.js": "/Nandita2002/student-payment-system.git/static/js/453.35427519.chunk.js",
+    "static/media/28468.jpg": "/Nandita2002/student-payment-system.git/static/media/28468.db0f7c3ccae7c89ffb52.jpg",
+    "index.html": "/Nandita2002/student-payment-system.git/index.html",
+    "main.cb4d4fe1.css.map": "/Nandita2002/student-payment-system.git/static/css/main.cb4d4fe1.css.map",
+    "main.71463175.js.map": "/Nandita2002/student-payment-system.git/static/js/main.71463175.js.map",
+    "453.35427519.chunk.js.map": "/Nandita2002/student-payment-system.git/static/js/453.35427519.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bd7adda.css",
-    "static/js/main.934de6ed.js"
+    "static/css/main.cb4d4fe1.css",
+    "static/js/main.71463175.js"
   ]
 }
